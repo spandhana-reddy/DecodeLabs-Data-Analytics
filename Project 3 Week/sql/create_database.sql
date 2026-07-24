@@ -1,0 +1,3 @@
+CREATE DATABASE ecommerce_analysis;
+
+USE ecommerce_analysis;
